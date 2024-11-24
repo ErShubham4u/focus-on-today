@@ -21,6 +21,6 @@ A minimalist goal-tracking web application designed to help you focus on your da
 
 ---
 
-## Installation
+## Screenshots
 
 ![Focus On Today](https://github.com/user-attachments/assets/396b075f-2da6-4a04-846e-dd3bd20ae15a)
